@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rhenancarvalho.github.io/Google-Search-Website/sitemap.xml
